@@ -1,0 +1,117 @@
+h1{
+    font-size: 100px;
+    color: #B68D40;
+    font-weight: normal;
+    font-family: 'Nuosu SIL', serif;
+    margin-bottom: 20px;
+}
+
+/* p{
+    text-align: justify;
+} */
+
+.parent{
+    width: 100%;
+}
+
+.child{
+    float: left;
+    width: 33.33%;
+}
+
+.float1{
+    width: 50%;
+    margin: auto;
+}
+
+.float2{
+    width: 50%;
+    margin: auto;
+    text-align: justify;
+}
+
+.squeez{
+    width: 50%;
+    margin: auto;
+    text-align: justify;
+    line-height: 1;
+
+}
+
+.squeez1{
+    margin-left: 60px;
+    width: 20%;
+    line-height: 1;
+    text-align: center;
+
+}
+
+/* hr{
+    margin-left: 4px solid #B68D40;
+    height: fit-content;
+} */
+
+.float-ul{
+    margin: auto;
+    padding: 40px 50px 10px 10px;
+    border-left: 1px solid #B68D40;
+}
+
+ul.ba{
+    list-style-type: none;
+    padding-left: 0px;
+    padding-top: 10px;
+    
+}
+
+.circle {
+    border-radius: 50%;
+    width: 10px;
+    height: 10px;
+    padding: 8px;
+    background: #fff;
+    border: 1px dashed grey;
+    color: grey;
+    text-align: center;
+    font: 10px Arial, sans-serif;
+    margin-bottom: 10px;
+}
+
+.cir-3{
+    border: 2px dotted black;
+}
+
+.float3{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: centre;
+    line-height: 1.5;
+}
+
+.parent2{
+    width: 100%;
+}
+
+.child2{
+    float: left;
+    width: 33.33%;
+}
+
+.paragraph{
+    width: 90%;
+    margin-left: 111px;
+    text-align: left;
+    line-height: 1.5;
+}
+
+.lower-float{
+    width: 50%;
+    margin: 100px auto auto 180px;
+    text-align: justify;
+    line-height: 1.5;
+}
+
+.last{
+    margin-top: -25px;
+}
+
