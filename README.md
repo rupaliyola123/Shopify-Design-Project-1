@@ -4,3 +4,6 @@
 I had so much fun creating it.
 
 **If you like it, don't forget to rate it.**
+
+**Note:** View this page only on desktop. 
+This is not a responsive design yet. 
